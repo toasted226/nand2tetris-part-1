@@ -1,0 +1,8 @@
+/** Not4 takes in 4-bit bus and returns the Not of each bit as a 4-bit bus */
+
+// for i=0..3: out[i] = Not[i]
+
+CHIP Not4 {
+    IN in[4];
+    OUT out[4];
+}

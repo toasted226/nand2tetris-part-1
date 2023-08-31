@@ -1,0 +1,1 @@
+Map<Map<Map<std::str::Lines<'_>, fn(&str) -> String {<String as From<&str>>::from}>, [closure@src\parser.rs:9:14: 9:17]>, [closure@src\parser.rs:10:14: 10:17]>

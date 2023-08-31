@@ -1,0 +1,1 @@
+D:\Dev\ Projects\rust\hack-assembler\target\debug\hack-assembler.exe: D:\Dev\ Projects\rust\hack-assembler\src\code.rs D:\Dev\ Projects\rust\hack-assembler\src\lib.rs D:\Dev\ Projects\rust\hack-assembler\src\main.rs D:\Dev\ Projects\rust\hack-assembler\src\parser.rs D:\Dev\ Projects\rust\hack-assembler\src\symbols.rs
